@@ -1,5 +1,5 @@
-import Header from './Header';
-import Body from './Body';
+import Header from './Header/Header';
+import Index from './Index/Index';
 
 
 const Contents = () => {
@@ -12,7 +12,7 @@ const Contents = () => {
         {...obj}
         fn={links}
         ></Header>
-        <Body />
+        <Index />
       </div>
     </>
   );

@@ -1,0 +1,36 @@
+.index-tendency {
+  background-color: #D272AC3B;
+  display: flex;
+  width: 45%;
+  height: 300px;
+  padding: 1rem;
+  margin: 1.5rem;
+}
+
+.index-tendency-title {
+  margin-right: 1rem;
+  height: auto;
+}
+
+.index-tendency-title p {
+  margin: 0;
+  font-size: 24px;
+  height: 30px;
+}
+
+.tendency-content {
+  padding: 0.5rem;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.tendency-content ul {
+  padding-left: 0;
+}
+
+.tendency-content li {
+  padding: 0.5rem;
+  font-size: 24px;
+  list-style: none;
+  margin-left: 1rem;
+}

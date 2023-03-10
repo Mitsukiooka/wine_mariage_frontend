@@ -1,0 +1,11 @@
+.index-body {
+  background-color: #F6E6BB9C;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  color: #CE5CA1;
+  height: 100%;
+}
+
+

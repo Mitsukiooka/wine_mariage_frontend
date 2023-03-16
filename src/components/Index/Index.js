@@ -6,7 +6,7 @@ import './stylesheets/Index.css';
 
 const Index = () => {
   return (
-    <div class='index-body'>
+    <div className='index-body'>
       <Recommend />
       <Tendency />
       <History />

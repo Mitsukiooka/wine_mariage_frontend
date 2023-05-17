@@ -1,6 +1,6 @@
 import Header from './Header/Header';
+import Top from './Top/Top';
 import Index from './Index/Index';
-import Wines from './Wines/Wines';
 
 
 const Contents = () => {
@@ -13,8 +13,8 @@ const Contents = () => {
         {...obj}
         fn={links}
         ></Header>
-        {/* <Index /> */}
-        <Wines />
+        {/* <Top /> */}
+        <Index />
       </div>
     </>
   );
